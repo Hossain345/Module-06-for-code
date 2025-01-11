@@ -1,1 +1,23 @@
+/* open sans font part 
+   :1st copy link add past head part.
+   :must add this link  before the css link.
+   :than copy css part and add css section
+   :than fixed  two part:
+   :one: <uniquifier>: Use a unique and descriptive class name
+   :two: <weight>: Use a value from 100 to 900
+   : weight: light:300  ;  normal:400 ;  bold:700  ; extra-bold: 800 ;
+*/
 
+.work-sans-normal {
+  font-family: "Work Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: 400px;
+  font-style: normal;
+}
+
+
+/* nav style */
+.nav-bar{
+    display: flex;
+
+}
